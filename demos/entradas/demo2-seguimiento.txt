@@ -1,0 +1,10 @@
+Esta es mi lista de clientes en seguimiento. Hoy es 14 de noviembre de 2026.
+Regla: los de interés «Claro» reciben hasta 5 toques (día 0, +3 horas, día 1, día 3, día 7) y después se llaman; el «Resto», hasta 2 toques y se archivan.
+Si un cliente respondió, no le toca mensaje automático: márcalo para responder a mano.
+
+1. Dime a quién le toca escribir hoy, ordenado por prioridad.
+2. Redacta cada mensaje: máximo 2 líneas, trato de «tú», sin presión, mencionando solo lo que pidió. Firma como Pastelería Dulce Mía.
+3. Lista aparte a quién hay que llamar y a quién archivar.
+
+LISTA:
+[pega aquí la tabla copiada de seguimiento-clientes.xlsx]
