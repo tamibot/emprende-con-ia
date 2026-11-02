@@ -84,28 +84,28 @@ Los mensajes de bienvenida y de ausencia se activan en el mismo menú. Usa las *
 La mayoría de las ventas no se pierden por precio: se pierden porque nadie volvió a escribir.
 El seguimiento necesita una regla, una lista y unos mensajes. Los tres están aquí.
 
-## 4.4 · La regla de toques
+## 4.4 · La regla de seguimiento
 
-Un «toque» es un mensaje que no recibió respuesta. Usamos esta regla en Creators Latam:
+Un intento es un mensaje que no recibió respuesta. Usamos esta regla en Creators Latam:
 
-| Tipo de cliente | Toques | Cuándo |
+| Intento | Cuándo | Qué dice |
 |---|---|---|
-| **Con interés claro** (pidió precio, tiene fecha o presupuesto) | Hasta 5 | Día 0 · mismo día (+3 h) · día 1 · día 3 · día 7 → después, **llamar** |
-| **Resto** | Hasta 2 | Primer mensaje + un recordatorio → después, se archiva |
+| 1 | Día 0 | El primer mensaje, sobre lo que consultó |
+| 2 | Día 1 | «¿Pudiste revisarlo?» |
+| 3 | Día 3 | El último, con una fecha o una razón concreta |
+| — | Después | Se cierra y se archiva, sin presión |
 
-Si el cliente responde, se acaba lo automático: le contestas tú, leyendo la conversación.
+**Si el cliente responde, se acaba lo automático y se le contesta siempre**, leyendo la conversación.
 
-## 4.5 · Mensajes por toque
+## 4.5 · Mensajes por intento
 
 Cortos, sin presión y sin pegar los datos que el cliente llenó en un formulario.
 
-| Toque | Mensaje |
+| Intento | Mensaje |
 |---|---|
 | 1 | Hola [nombre], soy [tu nombre] de [negocio]. Te escribo por [lo que consultó]. ¿Lo sigues buscando? |
-| 2 | Te dejo [el precio / el catálogo / la propuesta] por aquí, para que lo revises con calma. |
-| 3 | Hola [nombre], ¿pudiste revisarlo? Si te sirve, lo vemos en una llamada de 10 minutos. |
-| 4 | Esta semana tengo espacio para [entregar / atender] el [día]. ¿Te lo separo? |
-| 5 | Te escribo por última vez para no llenarte de mensajes. Si más adelante lo necesitas, aquí estoy. |
+| 2 | Hola [nombre], ¿pudiste revisarlo? Te dejo [el precio / la propuesta] por aquí. |
+| 3 | Esta semana tengo espacio para [entregar / atender] el [día]. Si más adelante lo necesitas, aquí estoy. |
 
 ## 4.6 · La lista (Google Sheets o Excel)
 
@@ -116,9 +116,8 @@ cliente:
 |---|---|
 | Cliente | Nombre |
 | Qué pidió | En pocas palabras |
-| Interés | Claro / Resto |
 | Último mensaje | Fecha en que le escribiste |
-| Toque | 1 a 5 |
+| Intento | 1 a 3 |
 | ¿Respondió? | Sí / No |
 | Próximo paso | Lo calcula la hoja según la regla |
 
@@ -128,14 +127,13 @@ Copia tu lista (o descárgala como CSV) y pégala con este texto:
 
 ```
 Esta es mi lista de clientes en seguimiento. Hoy es [fecha].
-Regla: los de interés «Claro» reciben hasta 5 toques (día 0, +3 horas, día 1, día 3, día 7)
-y después se llaman; el «Resto», hasta 2 toques y se archivan.
+Regla: hasta 3 intentos sin respuesta (día 0, día 1 y día 3) y después se cierra.
 Si un cliente respondió, no le toca mensaje automático: márcalo para responder a mano.
 
 1. Dime a quién le toca escribir hoy, ordenado por prioridad.
 2. Redacta cada mensaje: máximo 2 líneas, trato de «tú», sin presión,
    mencionando solo lo que pidió.
-3. Lista aparte a quién hay que llamar y a quién archivar.
+3. Lista aparte a quién hay que cerrar y a quién responder a mano.
 
 LISTA:
 [pega aquí tu lista]

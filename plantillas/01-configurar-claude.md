@@ -3,13 +3,23 @@
 Se hace una sola vez. Con esto Claude puede leer tu información, trabajar en tus archivos y conectarse a tus
 herramientas.
 
-## 1.1 · Lo que necesitas
+## 1.0 · Dos formas de empezar
+
+| | Nivel 1 · sin servidor | Nivel 2 · todo conectado |
+|---|---|---|
+| Costo | ≈ US$ 20 al mes | ≈ US$ 40 a 120 al mes |
+| Cuándo | Empiezas hoy | En una semana |
+| Qué usas | Claude con sus conectores de Gmail, Calendar y Drive; WhatsApp Business; Google Sheets | Claude Code y GitHub; VPS con WAHA, n8n y base de datos; CRM y Meta Ads por conector |
+
+Quédate en el nivel 1 el tiempo que quieras. Pasa al 2 cuando lo repetitivo te quite horas.
+
+## 1.1 · Lo que necesitas (nivel 2)
 
 | # | Qué | Costo aproximado |
 |---|---|---|
-| 1 | **Cuenta de Claude** (plan Pro o superior) e instalar **Claude Code** desde la app de escritorio | Desde US$ 20 al mes |
+| 1 | **Cuenta de Claude** e instalar **Claude Code** desde la app de escritorio. Pro para empezar; Max si lo usas a diario con agentes | Pro US$ 20 · Max desde US$ 100 al mes |
 | 2 | **Cuenta de GitHub**: ahí se guardan tus proyectos y se instalan skills y repositorios | Gratis |
-| 3 | **Un VPS** (servidor propio) con **WAHA** para WhatsApp, **n8n** para automatizaciones y tu **base de datos** | ≈ US$ 20 al mes |
+| 3 | **Un VPS** (servidor propio, por ejemplo en Railway, Hostinger o DigitalOcean) con **WAHA** para WhatsApp, **n8n** para automatizaciones y tu **base de datos** | ≈ US$ 20 al mes |
 | 4 | **Google Chrome** con la misma sesión de correo que usa tu Claude | Gratis |
 
 Repositorios: WAHA en github.com/devlikeapro/waha · n8n en github.com/n8n-io/n8n.
@@ -22,6 +32,11 @@ Antes de armar agentes, conecta tus fuentes para que la IA trabaje con datos y n
 - **WhatsApp con WAHA**: chats y también **grupos**; la IA los lee y los analiza.
 - **Calendario y archivos**: reuniones, propuestas y documentos.
 - **Una base de datos** en tu VPS donde todo queda ordenado por cliente.
+
+**Dos cuidados:**
+- **WAHA no es la API oficial de WhatsApp:** úsalo para leer y ordenar. Para atender clientes a escala, usa la API
+  oficial: Meta puede bloquear un número que no la use.
+- **Privacidad (Ley 29733):** avisa a tus clientes que usas IA y no subas datos sensibles que no necesitas.
 
 ## 1.3 · Activa esto en Claude Code
 

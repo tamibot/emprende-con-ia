@@ -44,16 +44,14 @@ PASAR A PERSONA: pide descuento del 30 % por dos tortas (fuera de la ficha).
 ## Demo extra · ¿A quién le escribo hoy? (14-nov-2026)
 
 **Escribir hoy, por prioridad**
-1. **Ana** — Claro · toque 4 (le tocaba el 13/11, va atrasado)
-   «Hola Ana, esta semana tengo espacio para tu pedido del sábado. ¿Te lo separo? — Pastelería Dulce Mía»
-2. **Lucía** — Claro · toque 2 (hoy, 3 horas después del primero)
-   «Hola Lucía, te dejo los precios de la torta para 15 personas por aquí, para que los revises con calma.»
-3. **Jorge** — Resto · toque 2, el último
-   «Hola Jorge, ¿pudiste revisar los precios de los bocaditos? Si te sirve, te ayudo a elegir.»
+1. **Ana** — intento 3, el último (le tocaba el 13/11, va atrasado)
+   «Hola Ana, esta semana tengo espacio para tu pedido del sábado. Si más adelante lo necesitas, aquí estoy.»
+2. **Jorge** — intento 2
+   «Hola Jorge, ¿pudiste revisar los precios de los bocaditos? Te los dejo por aquí.»
 
+**Mañana:** Lucía (intento 2).
 **Responder a mano:** Rosa (respondió sobre el catálogo de cumpleaños).
-**Llamar:** Carla (torta de matrimonio, ya recibió 5 toques).
-**Archivar:** Pedro (2 toques sin respuesta).
+**Cerrar:** Carla y Pedro (3 intentos sin respuesta).
 
 ## Demo 3 · Marketing · Contenido
 
