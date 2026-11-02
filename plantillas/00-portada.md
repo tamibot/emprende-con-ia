@@ -4,16 +4,17 @@
 
 *Emprende con Inteligencia: menos operatividad, más escalabilidad.*
 
-Plantillas para copiar y pegar en ChatGPT, Claude o Gemini (todas funcionan en su versión gratuita).
+Plantillas para usar Claude en cada área de tu emprendimiento. Los prompts funcionan también en ChatGPT o Gemini.
 Cambia lo que está entre **[corchetes]** por los datos de tu negocio.
 
 | # | Plantilla | Para qué |
 |---|---|---|
-| 1 | Idear y validar | Ordenar tu oferta y probarla en 7 días con poca plata |
-| 2 | Asistente de WhatsApp | Responder al instante con la información de tu negocio |
-| 3 | Seguimiento | Saber a quién escribirle hoy y qué decirle. Incluye la hoja **seguimiento-clientes.xlsx** |
-| 4 | Contenido | De una pregunta de tus clientes a una semana de publicaciones |
-| 5 | Plan de 7 días | Una tarea por día para empezar esta semana |
+| 1 | Configurar Claude | Instalación, permisos, un proyecto por emprendimiento y skills con sus links |
+| 2 | Estratégico | Agente autocrítico que te entrevista, panel simulado y Biblioteca de anuncios |
+| 3 | Marketing | Landing, checklist de lanzamiento, anuncios, pauta y contenido |
+| 4 | Comercial | Asistente de WhatsApp, seguimiento, remarketing y la hoja **seguimiento-clientes.xlsx** |
+| 5 | Administrativo, operativo y legal | SUNAT, flujo de caja, agenda, contratos y datos personales |
+| 6 | Hoja de ruta | Un área por semana durante un mes |
 
 **Repositorios de nuestras charlas** (abiertos, para copiar)
 

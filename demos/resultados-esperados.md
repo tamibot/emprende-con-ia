@@ -3,7 +3,24 @@
 Respuestas de ejemplo para mostrar si se cae internet o la IA. En vivo la redacción cambia; el método es
 el mismo. Decirlo así: «así sale normalmente».
 
-## Demo 1 · Asistente de WhatsApp
+## Demo 1 · Estratégico · Valida tu idea
+
+**Preguntas que suele hacer** (una por una): ¿quién te compra hoy y cómo te encuentra? · ¿cuánto cobras y cuánto te
+cuesta cada torta? · ¿qué te hace distinta de una pastelería con local? · ¿cuántas tortas puedes hacer por semana?
+· ¿cuánto puedes invertir para probar?
+
+**Veredicto típico:**
+- **Probabilidad realista:** media-baja si compites por precio; media si te diferencias en personalización y
+  puntualidad. El mercado de tortas en Lima está lleno y el cliente compara en Instagram.
+- **Riesgos:** 1) margen chico si el delivery lo absorbes tú; 2) capacidad: haciendo todo en casa no pasas de cierto
+  número de tortas por semana; 3) dependes de fechas (cumpleaños) y de responder rápido por WhatsApp.
+- **Cliente ideal:** mamá de 30 a 45 años en Surco, San Borja o Miraflores que organiza el cumpleaños con dos o tres
+  semanas de anticipación y quiere algo personalizado sin complicarse.
+- **Concepto:** «Tu torta personalizada, a tiempo y sin estrés».
+- **Qué probar primero:** 2 semanas con S/ 150 en anuncios a mamás de esos distritos, con un solo producto (torta de 15
+  personas) y medir cuántas piden precio y cuántas separan con el 50 %.
+
+## Demo 2 · Comercial · Asistente de WhatsApp
 
 **Cliente:** Hola, cuánto cuesta la torta de chocolate para 15 personas?
 **Asistente:** ¡Hola! La torta de chocolate para 15 personas cuesta S/ 120, con relleno de fudge y
@@ -24,7 +41,7 @@ Surco).
 serían para el mismo día?
 PASAR A PERSONA: pide descuento del 30 % por dos tortas (fuera de la ficha).
 
-## Demo 2 · ¿A quién le escribo hoy? (14-nov-2026)
+## Demo extra · ¿A quién le escribo hoy? (14-nov-2026)
 
 **Escribir hoy, por prioridad**
 1. **Ana** — Claro · toque 4 (le tocaba el 13/11, va atrasado)
@@ -38,7 +55,7 @@ PASAR A PERSONA: pide descuento del 30 % por dos tortas (fuera de la ficha).
 **Llamar:** Carla (torta de matrimonio, ya recibió 5 toques).
 **Archivar:** Pedro (2 toques sin respuesta).
 
-## Demo 3 · Contenido
+## Demo 3 · Marketing · Contenido
 
 **10 ganchos** (los 3 más claros, marcados)
 1. ★ ¿Con cuánta anticipación se pide una torta?
