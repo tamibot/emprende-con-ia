@@ -103,6 +103,8 @@ Martín Velasco · Fundador de Creators Latam · Partner de Kommo · Cofundador 
 - Correo: mvelascoo@tamibot.com
 - LinkedIn: [linkedin.com/in/mvelasco97](https://linkedin.com/in/mvelasco97)
 - Web: [creatorslatam.com](https://creatorslatam.com)
-- Busca **Martín Velasco** en TikTok, Instagram y YouTube: comparto cada semana cómo usamos la IA.
+- TikTok: [@__conceptstudio](https://www.tiktok.com/@__conceptstudio)
+- YouTube: [@_creatorslatam](https://www.youtube.com/@_creatorslatam)
+- Instagram: [@_creatorslatam](https://www.instagram.com/_creatorslatam)
 
 Si te sirvió, dale una estrella al repositorio y compártelo con otro emprendedor.
